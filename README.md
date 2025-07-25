@@ -45,10 +45,3 @@ The audio will be downloaded and saved as an MP3 file using the video title.
 The downloaded MP3 file will be saved in the current directory with the video’s title as the filename.
 
 ---
-
-### ❗ Troubleshooting
-
-* If you see the message `"Except"` during download, it means an error occurred (e.g., bad URL, no ffmpeg).
-* Make sure the URL is valid and that `ffmpeg` is properly installed.
-
----
