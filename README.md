@@ -21,16 +21,6 @@ This script allows you to download high-quality `.mp3` files from YouTube using 
    pip install yt-dlp
    ```
 
-3. **Make sure ffmpeg is installed and available in your PATH.**
-
-   * On Windows: You can download from [ffmpeg.org](https://ffmpeg.org/download.html), extract it, and add the `bin/` folder to your system PATH.
-   * On Linux/macOS:
-
-     ```bash
-     sudo apt install ffmpeg        # Debian/Ubuntu
-     brew install ffmpeg            # macOS (Homebrew)
-     ```
-
 ---
 
 ### 🚀 How to Use
