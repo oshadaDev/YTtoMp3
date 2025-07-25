@@ -2,8 +2,7 @@
 
 ## 🎵 YouTube to MP3 Downloader (Using `yt_dlp`)
 
-This script allows you to download high-quality `.mp3` files from YouTube using [`yt_dlp`](https://github.com/yt-dlp/yt-dlp) and `ffmpeg`.
-
+This script allows you to download high-quality `.mp3` files from YouTube.
 ---
 
 ### 🛠 Installation
